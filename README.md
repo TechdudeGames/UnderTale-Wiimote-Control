@@ -22,7 +22,7 @@ At any time pressing the Home button will close the program and end the bluetoot
 
 ________________Installing________________
 
-A shell script called instcont.sh will install the prebuild binary to /usr/bin.
+A shell script called instcont.sh will install the prebuild binary to /usr/bin. Simply run it with ./ to run the install.
 
 _________________Running_________________
 
