@@ -26,7 +26,7 @@ A shell script called instcont.sh will install the prebuild binary to /usr/bin. 
 
 _________________Running_________________
 
-If you installed the binary, typing "UnderTale Control" will start up the program. Other wise, run "UnderTale Control.py" with a python3. Keep in mind that you will need to have all the required libraries if you are running the script.
+If you installed the binary, typing "UnderTale Control.x86_64" will start up the program. Other wise, run "UnderTale Control.py" with a python3. Keep in mind that you will need to have all the required libraries if you are running the script.
 When prompted, press 1 and 2 on the Wii Remote to establish a connection. The remote should virbate for a second if the connection was sucessful.
 If the Wii Remote does not vibrate, try pressing 1 and 2 again. If after 3 tries it still fails, insure that your computer's bluetooth dongle is working and that Wii Remote's batteries don't need to be changed.
 After establising the connection, open UnderTale. You can now proceed to play the game with your Wii Remote.
