@@ -90,7 +90,7 @@ while not (wm.state['buttons'] & cwiid.BTN_HOME):
     if wm.state['buttons'] & cwiid.BTN_MINUS:
         keyboard.press(Key.ctrl)
         pressingctrl=True
-    elif pressingenter==True:
+    elif pressingctrl==True:
         keyboard.release(Key.ctrl)
         pressingctrl=False
 
